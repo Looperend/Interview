@@ -1,0 +1,12 @@
+{
+  "name": "looper/interview",
+  "authors": [
+    {
+      "name": "hechen",
+      "email": "936696547@qq.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {"SwordFingerOffer\\": "SwordFingerOffer/"}
+  }
+}
